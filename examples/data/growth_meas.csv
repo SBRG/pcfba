@@ -1,0 +1,11 @@
+substrate,growth_rate_1_h,order,ex_rxn
+glucose,0.74,0,EX_glc__D_e
+maltose,0.62,3,EX_malt_e
+mannose,0.56,,EX_man_e
+fructose,0.55,,EX_fru_e
+galactose,0.52,2,EX_gal_e
+succinate,0.46,,EX_succ_e
+malate,0.44,,EX_mal__L_e
+glycerol,0.42,4,EX_glyc_e
+lactate,0.39,1,EX_lac__L_e
+acetate,0.256,5,EX_ac_e
