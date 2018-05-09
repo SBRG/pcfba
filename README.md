@@ -2,6 +2,7 @@
 Protein constrained FBA
 
 Author: Laurence Yang
+
 Affiliation: 
 - Department of Bioengineering, UCSD
 - Systems Biology Research Group
