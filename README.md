@@ -8,7 +8,7 @@ Author: Laurence Yang
 - Department of Bioengineering, UCSD
 - Systems Biology Research Group
 
-### Installation
+## Installation
 ---
 1. Download the repository:
 `git clone https://github.com/SBRG/pcfba.git`
@@ -21,7 +21,7 @@ Author: Laurence Yang
 Now you can run the notebooks in examples/
 
 
-Requirements:
+Required python packages:
 - python (2.7 and up. Tested mostly on 2.7)
 - cobrapy
 	- tested on 0.5.11
@@ -33,3 +33,11 @@ Requirements:
 - seaborn
 - (optional) sklearn
 
+---
+## Content
+
+| Description | Notebook |
+|-----|----------------|
+  |  Growth rate | [growth_rate_pcfba_R02.ipynb](https://github.com/SBRG/pcfba/blob/master/examples/growth_rate_pcfba_R02.ipynb) |
+  |  Substrate uptake hierarchy | [complex_media_R02.ipynb](https://github.com/SBRG/pcfba/blob/master/examples/complex_media_R02.ipynb)   |
+ |  Predicting proteome allocation | [proteomics.ipynb](https://github.com/SBRG/pcfba/blob/master/examples/lecture12/proteomics.ipynb) |
